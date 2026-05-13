@@ -1,49 +1,42 @@
-
 🎯 Projeto: Chatbot para Evento Fictício (Engenharia de Prompt)
 
-Este projeto foi desenvolvido durante uma aula de Engenharia de Prompt, onde o desafio era criar um site para um evento fictício com foco em design visual atrativo e um chatbot funcional integrado.
+Este projeto foi desenvolvido durante uma aula de Engenharia de Prompt, com o objetivo de criar um site para um evento fictício contendo design visual atrativo, responsividade e um chatbot integrado.
 
 💡 Sobre o projeto
 
-O objetivo era simular um site real de evento, contendo:
+O objetivo era simular um site real de evento, com foco em:
 
-Uma interface visual bonita e responsiva
-Um formulário para captura de informações
-Um chatbot integrado para interação com o usuário
+Interface moderna e responsiva (adaptada para mobile e desktop)
+Formulário para captura de informações
+Chatbot interativo integrado com IA
 
-Como o tempo da atividade era curto, utilizei IA para acelerar o desenvolvimento do front-end e foquei principalmente na construção do back-end e integração das funcionalidades.
+Devido ao curto tempo da atividade, utilizei IA como apoio para acelerar o desenvolvimento do front-end, enquanto foquei na construção do backend e integrações principais.
 
 ⚙️ Tecnologias utilizadas
 Python
 Flask (framework web)
 HTML5
-CSS3
+CSS3 (layout responsivo)
 JavaScript
 API do Google Gemini (chatbot com IA)
 Railway (deploy em produção)
 Git / GitHub
 🧠 O que eu fiz no projeto
 Desenvolvimento do backend com Flask
-Criação de rotas para comunicação entre frontend e backend
-Integração com API do Google Gemini para o chatbot
-Ajustes e estruturação do frontend gerado com auxílio de IA
+Criação de rotas para comunicação frontend ↔ backend
+Integração com API do Google Gemini
+Ajustes no frontend para garantir responsividade
+Estruturação de layout responsivo (mobile e desktop)
 Configuração de ambiente virtual (.venv)
-Deploy da aplicação na plataforma Railway
+Deploy na plataforma Railway
 🚀 Deploy
-
-O projeto está online em produção:
 
 👉 https://projeto-faculdade-production.up.railway.app/
 
 📚 Aprendizados
-
-Durante esse projeto, aprendi na prática:
-
-Como funciona um framework web (Flask)
-Como integrar APIs externas (Gemini)
-Como estruturar um projeto full stack simples
-Conceitos de ambiente virtual e organização de dependências
-Processo de deploy em cloud (Railway)
-📌 Observação
-
-Este projeto foi desenvolvido com foco educacional, como parte de uma atividade acadêmica de Engenharia de Prom
+Desenvolvimento web com Flask
+Integração de APIs de IA
+Construção de interfaces responsivas
+Organização de projetos full stack
+Deploy em ambiente cloud (Railway)
+Uso de ambiente virtual (.venv)
